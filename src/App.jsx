@@ -6,6 +6,8 @@ function App() {
   return (
     <>
       <div className='app'>
+      {/* bal bichi */}
+      {/* sudir bhai */}
         <Sidebar />
         <Content />
       </div>
